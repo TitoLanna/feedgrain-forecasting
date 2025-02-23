@@ -72,7 +72,7 @@ CREATE TABLE transactions (
 ## Entity-Relationship Diagram
 Below is a textual representation of the relationships between the tables:
 
-![Entity_Relationship_Diagram](data/raw/ERDiagram.drawio.png)
+![Entity_Relationship_Diagram](https://github.com/TitoLanna/feedgrain-forecasting/blob/main/ERDiagram.drawio.png)
 
 ## Notes
 - **Primary Keys (PK):** Ensure unique identification of each row.
